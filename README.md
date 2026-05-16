@@ -1,10 +1,10 @@
 # Redundant Campus Network Lab
 
-** ## Objective**
+## Objective
 
 The objective of this lab was to design and configure a redundant Layer 2 campus network using VLAN segmentation, trunking, Spanning Tree Protocol (STP), and EtherChannel in EVE-NG.
 
-** ### Job Skills Learned**
+### Job Skills Learned
 
 This lab helped develop practical networking and infrastructure skills commonly required in:
 
