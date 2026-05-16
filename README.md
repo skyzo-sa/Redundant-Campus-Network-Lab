@@ -14,26 +14,41 @@ This lab helped develop practical networking and infrastructure skills commonly 
 - IT Infrastructure Support
 - Systems & Network Operations
 
+---
+
+### Technical Skills Gained
+
+#### VLAN & Switching
 - VLAN creation
-- Access port configuration
 - VLAN management
+- Access port configuration
 - Broadcast domain segmentation
+
+#### Cisco IOS & Device Management
 - Cisco IOS CLI navigation
 - Basic switch hardening
 - Device management configuration
 - Console configuration
+
+#### Trunking & Inter-Switch Communication
 - Trunk port configuration
 - VLAN tagging
 - Inter-switch communication
 - Native VLAN management
+
+#### EtherChannel & Redundancy
 - Link aggregation
 - Port-channel configuration
 - LACP troubleshooting
 - High availability design
+
+#### Spanning Tree Protocol (STP)
 - STP optimization
 - Root bridge election
 - Loop prevention
 - Network convergence concepts
+
+#### Layer 3 Switching & Routing
 - Layer 3 switching
 - SVI configuration
 - Routing between VLANs
