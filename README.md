@@ -64,7 +64,7 @@ This lab helped develop practical networking and infrastructure skills commonly 
 **Ref: Network Diagram**
 <img width="1635" height="863" alt="image" src="https://github.com/user-attachments/assets/319cfb2c-f0b0-40c1-9097-3d147b8602b2" />
 
-**### CONFIGURATION STEPS**
+### CONFIGURATION STEPS
 
 **Physical Connections:**
 
