@@ -39,7 +39,7 @@ This lab helped develop practical networking and infrastructure skills commonly 
 - Routing between VLANs
 - Gateway configuration
 
-**  Tools and Technologies Used**
+##  Tools and Technologies Used
 
 - Network Simulation Tool (EVE-NG) used to simulate enterprise networking environments virtually.
 - Cisco Networking Technologies
