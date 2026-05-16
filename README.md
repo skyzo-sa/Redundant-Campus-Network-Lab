@@ -39,14 +39,14 @@ This lab helped develop practical networking and infrastructure skills commonly 
 - Routing between VLANs
 - Gateway configuration
 
-**###  Tools and Technologies Used**
+**  Tools and Technologies Used**
 
 - Network Simulation Tool (EVE-NG) used to simulate enterprise networking environments virtually.
 - Cisco Networking Technologies
 - Cisco Catalyst Switches (2960/3560)
 - Cisco IOS CLI
 
-**Ref: Network Diagram***
+**Ref: Network Diagram**
 <img width="1635" height="863" alt="image" src="https://github.com/user-attachments/assets/319cfb2c-f0b0-40c1-9097-3d147b8602b2" />
 
 **### CONFIGURATION STEPS**
